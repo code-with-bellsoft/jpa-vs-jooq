@@ -14,11 +14,10 @@ shiki: { theme: "nord" }
 <img src="/bellsoft.png" width="200px" class="absolute right-10px bottom-5px"/>
 
 ---
-layout: image-right
-image: "/cat.jpg"
+layout: two-cols
 ---
 
-## 'whoami'
+## Cat
 
 🗣️ Doesn't like reinventing the wheel
 
@@ -26,12 +25,10 @@ image: "/cat.jpg"
 
 🟦 Weight: 49 kg
 
----
-layout: image-left
-image: "/pasha.jpeg"
----
 
-## 'whoami'
+::right::
+
+## Pasha
 
 🔆 First, there was SQL
 
