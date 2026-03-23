@@ -83,7 +83,7 @@ image: "/members.png"
 
 Products:
 
-- Liberica JDK (officially recommended by Spring)
+- Liberica JDK (officially recommended by Spring!)
 - Liberica Native Image Kit
 - Alpaquita Linux
 - BellSoft Hardened Images
