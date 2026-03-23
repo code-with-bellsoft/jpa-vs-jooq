@@ -1,7 +1,7 @@
 ---
 theme: default
-background: /background.jpg
-title: Bullet-Proof Java Containers
+background: /background.png
+title: JPA vs jOOQ
 drawings:
   persist: false
 transition: none
@@ -9,7 +9,7 @@ mdc: true
 shiki: { theme: "nord" }
 ---
 
-# The Persistence Heavyweight Championship: JPA vs. jOOQ
+# The Persistence Heavyweight Championship:<br/> JPA vs. jOOQ
 
 <img src="/bellsoft.png" width="200px" class="absolute right-10px bottom-5px"/>
 
@@ -20,13 +20,11 @@ image: "/cat.jpg"
 
 ## 'whoami'
 
-🥑 Developer Advocate at BellSoft
+🗣️ Likes to give orders
 
-😍 Java developer
+👩‍💻 Entities are a source of truth
 
-👩‍💻 Tech writer
-
-👾 CyberJAR Channel co-host (@cbrjar)
+🟥 Weight: 49 kg
 
 ---
 layout: image-left
@@ -35,55 +33,78 @@ image: "/pasha.jpeg"
 
 ## 'whoami'
 
-🥑 Developer Advocate at BellSoft
+🔆 First, there was SQL
 
-☕️ ≈15 years in JVM, mostly Java, Kotlin, Spring
+🌲 Code is temporary, data lasts longer
 
-👾 CyberJAR Channel co-host (@cbrjar)
+🟦 Weight: 93 kg
 
 ---
-class: text-center
+
+## DB Access Tool: Why Do We Care?
+<br/>
+
+TODO
+
+---
 layout: cover
 ---
 
-# Together, we are...
-
-## <v-click>The BellSoft's DevRel Gang!</v-click>
-
-<style>
-h1 {
-    position: relative;
-    bottom: 100px;
-}
-h2 {
-    font-size: 30px;
-    position: relative;
-    bottom: 50px;
-}
-</style>
+## Round 1: Opening Bell
+### Speed (and Ease) of Development
 
 ---
-layout: image-right
-image: "/members.png"
+layout: cover
 ---
 
-## BellSoft
-
-<br/>
-
-- Java and Linux experts with 15+ years of experience
-- Members of various boards/committees
-- Alpine Linux support in OpenJDK
+## Round 2
+### Code Generation Clash
 
 ---
+layout: cover
+---
 
-## BellSoft
+## Round 3
+### N+1 Knockout
 
-<br/>
+---
+layout: cover
+---
 
-Products:
+## Round 4
+### The Criteria API Clinch
 
-- Liberica JDK (officially recommended by Spring!)
-- Liberica Native Image Kit
-- Alpaquita Linux
-- BellSoft Hardened Images
+---
+layout: cover
+---
+
+## Round 5
+### Compile-Time Validation Verdict
+
+---
+layout: cover
+---
+
+## Round 6
+### Raw Runtime Performance Showdown
+
+---
+layout: cover
+---
+
+## Round 7
+### Read-Side Query Complexity Rumble
+
+---
+layout: cover
+---
+
+## Round 8
+### Write-Side Graph Complexity Grapple
+
+---
+layout: cover
+---
+
+## Round 9: The Grand Finale
+### Schema Evolution and Refactoring Resilience
