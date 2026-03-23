@@ -42,6 +42,27 @@ image: "/pasha.jpeg"
 👾 CyberJAR Channel co-host (@cbrjar)
 
 ---
+class: text-center
+layout: cover
+---
+
+# Together, we are...
+
+## <v-click>The BellSoft's DevRel Gang!</v-click>
+
+<style>
+h1 {
+    position: relative;
+    bottom: 100px;
+}
+h2 {
+    font-size: 30px;
+    position: relative;
+    bottom: 50px;
+}
+</style>
+
+---
 layout: image-right
 image: "/members.png"
 ---
