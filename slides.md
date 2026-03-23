@@ -24,7 +24,7 @@ image: "/cat.jpg"
 
 👩‍💻 Entities are a source of truth
 
-🟥 Weight: 49 kg
+🟦 Weight: 49 kg
 
 ---
 layout: image-left
@@ -37,7 +37,7 @@ image: "/pasha.jpeg"
 
 🌲 Code is temporary, data lasts longer
 
-🟦 Weight: 93 kg
+🟥 Weight: 93 kg
 
 ---
 
