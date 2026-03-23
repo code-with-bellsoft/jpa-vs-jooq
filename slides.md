@@ -20,7 +20,7 @@ image: "/cat.jpg"
 
 ## 'whoami'
 
-🗣️ Likes to give orders
+🗣️ Doesn't like reinventing the wheel
 
 👩‍💻 Entities are a source of truth
 
